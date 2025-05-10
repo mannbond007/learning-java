@@ -1,2 +1,4 @@
 This is the test folder
 this is the another line of example
+
+This is the dummy text to check the branch
